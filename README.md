@@ -33,7 +33,7 @@ This is a fork of [ALVR](https://github.com/polygraphene/ALVR).
     -   NVIDIA GPU that supports NVENC (1000 GTX Series or higher) (or with an AMD GPU that supports AMF VCE) with the latest driver.  
     -   Laptops with an onboard (Intel HD, AMD iGPU) and an additional dedicated GPU (NVidia GTX/RTX, AMD HD/R5/R7): you should assign the dedicated GPU or "high performance graphics adapter" to the applications ALVR, SteamVR for best performance and compatibility. (NVidia: Nvidia control panel->3d settings->application settings; AMD: similiar way) 
 
--   802.11ac 5Ghz wireless or ethernet wired connection  
+-   802.11ac 5Ghz wireless or ethernet wired connection  *This is a change here*
     -   It is recommended to use 802.11ac 5Ghz for the headset and ethernet for PC  
     -   You need to connect both the PC and the headset to same router (or use a routed connection as described [here](https://github.com/alvr-org/ALVR/wiki/ALVR-client-and-server-on-separate-networks))
 
